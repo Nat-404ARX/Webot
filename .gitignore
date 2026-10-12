@@ -1,0 +1,4 @@
+node_modules/*
+images_telechargees/*
+package.json
+package-lock.json
